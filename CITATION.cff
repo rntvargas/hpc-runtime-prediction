@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use this software or methodology, please cite it as below."
+type: software
+title: "Machine Learning-Based Runtime Prediction and Energy Optimization for HPC Job Scheduling"
+version: 1.0.0
+date-released: "2025-10-22"
+url: "https://github.com/rntvargas/hpc-runtime-prediction"
+repository-code: "https://github.com/rntvargas/hpc-runtime-prediction"
+license: MIT
+
+authors:
+  - family-names: "Quispe Vargas"
+    given-names: "Renato"
+    email: "72535253@est.unap.edu.pe"
+    affiliation: "Universidad Nacional del Altiplano, Puno, Peru"
+    
+  - family-names: "Vilca Chambilla"
+    given-names: "Briggitte Jhosselyn"
+    email: "71639757@unap.edu.pe"
+    affiliation: "Universidad Nacional del Altiplano, Puno, Peru"
+    
+  - family-names: "Torres Cruz"
+    given-names: "Fred"
+    email: "ftorres@unap.edu.pe"
+    affiliation: "Universidad Nacional del Altiplano, Puno, Peru"
+
+keywords:
+  - HPC
+  - machine-learning
+  - job-scheduling
+  - random-forest
+  - energy-optimization
+  - runtime-prediction
+  - eagle-supercomputer
+  - NREL
+
+abstract: |
+  This repository provides the complete implementation for machine learning-based
+  runtime prediction and energy optimization for HPC job scheduling. Using the
+  NREL Eagle supercomputer dataset with 11M+ jobs, we demonstrate that Random
+  Forest models can predict runtime with MAE=1.91 hours and identify 91.5%
+  energy savings potential. The code enables full reproducibility of our research
+  results and can be adapted for other HPC systems.
+
+references:
+  - type: dataset
+    title: "NREL Eagle Supercomputer Jobs Dataset"
+    authors:
+      - name: "National Renewable Energy Laboratory"
+    year: 2023
+    url: "https://data.openei.org/submissions/5860"
