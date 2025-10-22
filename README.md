@@ -11,8 +11,8 @@ This repository contains the complete implementation and reproducible results fo
 
 **Authors:**  
 - Renato Quispe Vargas (Universidad Nacional del Altiplano, Peru) - 72535253@est.unap.edu.pe  
-- Fred Torres Cruz (Universidad Nacional del Altiplano, Peru) - ftorres@unap.edu.pe  
-- Briggitte Jhosselyn Vilca Chambilla (Universidad Nacional del Altiplano, Peru) - 71639757@unap.edu.pe
+- Briggitte Jhosselyn Vilca Chambilla (Universidad Nacional del Altiplano, Peru) - 71639757@unap.edu.pe  
+- Fred Torres Cruz (Universidad Nacional del Altiplano, Peru) - ftorres@unap.edu.pe 
 
 ##  Abstract
 
@@ -256,3 +256,4 @@ Email: ftorres@unap.edu.pe
 ---
 
 **Keywords:** HPC, Job Scheduling, Machine Learning, Random Forest, Energy Optimization, Runtime Prediction, Eagle Supercomputer, NREL
+
